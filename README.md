@@ -18,16 +18,16 @@ Welcome to the Apple Hub Store App, a Kotlin-based project that allows users to 
 
 ## Screens
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/ea97c21d-3455-44d1-b622-1d12d712ae01.png" width="342" alt="home">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/ea97c21d-3455-44d1-b622-1d12d712ae01.png" width="150" alt="home">
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/4bf78a47-75ea-4ea9-990a-9321e9bb9089.png" width="342" alt="search">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/4bf78a47-75ea-4ea9-990a-9321e9bb9089.png" width="1502" alt="search">
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/1293cd59-b865-475e-9303-7ea1b2d1bb92.png" width="342" alt="fav">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/1293cd59-b865-475e-9303-7ea1b2d1bb92.png" width="150" alt="fav">
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/8a10c8fa-fee4-4879-86ad-f5910196aa13.png" width="342" alt="cart">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/8a10c8fa-fee4-4879-86ad-f5910196aa13.png" width="150" alt="cart">
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/2d6b19b7-6090-4d42-b877-4f9e4016af1d.png" width="342" alt="checkout">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/2d6b19b7-6090-4d42-b877-4f9e4016af1d.png" width="150" alt="checkout">
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/f9758e37-5b35-4ffb-a99e-4b7bff2b2318.png" width="342" alt="success">
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/f9758e37-5b35-4ffb-a99e-4b7bff2b2318.png" width="150" alt="success">
 
 

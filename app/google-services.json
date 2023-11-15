@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617616213523",
+    "project_id": "apple-hub-44864",
+    "storage_bucket": "apple-hub-44864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617616213523:android:58fff040387d9d5ce4e1e6",
+        "android_client_info": {
+          "package_name": "com.example.applehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbu1Wt46_8AFzeCCpcCAplL87NMVn4r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

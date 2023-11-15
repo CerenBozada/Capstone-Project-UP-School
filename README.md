@@ -18,16 +18,18 @@ Welcome to the Apple Hub Store App, a Kotlin-based project that allows users to 
 
 ## Screens
 
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/ea97c21d-3455-44d1-b622-1d12d712ae01.png" width="200" alt="home">
-
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/4bf78a47-75ea-4ea9-990a-9321e9bb9089.png" width="200" alt="search">
-
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/1293cd59-b865-475e-9303-7ea1b2d1bb92.png" width="200" alt="fav">
-
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/8a10c8fa-fee4-4879-86ad-f5910196aa13.png" width="200" alt="cart">
-
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/2d6b19b7-6090-4d42-b877-4f9e4016af1d.png" width="200" alt="checkout">
-
-<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/f9758e37-5b35-4ffb-a99e-4b7bff2b2318.png" width="200" alt="success">
 
 
+## Screens
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/db961ea8-1a95-46b0-9fca-285e90d6c532.png" width="200" alt="home">
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/ae669ef1-358f-4aef-b40f-bc68755869e7.png" width="200" alt="search">
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/7ac0ec17-8c36-4be7-ba80-9eff73ebc9ad.png" width="200" alt="fav">
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/b09d10a5-f0a5-4701-83bd-92646a34224b.png" width="200" alt="cart">
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/0561683d-b871-4c4a-a259-7c72761688ba.png" width="200" alt="checkout">
+
+<img src="https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/16da3e10-85c0-44b1-a484-94de4a4ee795.png" width="200" alt="success">

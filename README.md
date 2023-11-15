@@ -16,5 +16,7 @@ Welcome to the Apple Hub Store App, a Kotlin-based project that allows users to 
 - [X] Glide Compose
 - [X] Chucker
 
-Home Screen
-<img width="342" alt="Screenshot 2023-11-15 at 11 13 00" src="https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/ea97c21d-3455-44d1-b622-1d12d712ae01">
+## Home Screen
+
+![Home Screen](https://github.com/CerenBozada/Capstone-Project-UP-School/raw/main/assets/69468105/ea97c21d-3455-44d1-b622-1d12d712ae01.png)
+

@@ -15,6 +15,8 @@ Welcome to the Apple Hub Store App, a Kotlin-based project that allows users to 
 - [X] Firebase Auth
 - [X] Glide Compose
 - [X] Chucker
+- [X] Lottie
+
 
 
 | Home | Detail | Search | 
@@ -23,5 +25,8 @@ Welcome to the Apple Hub Store App, a Kotlin-based project that allows users to 
 
 | Cart | Checkout | Success |
 |------|----------|---------|
-| ![Cart](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/3e8ad673-8297-468d-93f2-b267b768f1f2) | ![Checkout](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/15acd3bb-81c8-4a2c-8d77-f071316162f7) | ![Success](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/31d4f024-22a7-47b5-b244-0315e6fc4f28) |
+| ![Cart](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/3e8ad673-8297-468d-93f2-b267b768f1f2) | ![Checkout](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/10d111c3-0cdd-45c8-b1f2-9885baa0bf02) | ![Success](https://github.com/CerenBozada/Capstone-Project-UP-School/assets/69468105/260f282e-6f04-4923-a803-b471b3945c0a) |
+
+
+
 

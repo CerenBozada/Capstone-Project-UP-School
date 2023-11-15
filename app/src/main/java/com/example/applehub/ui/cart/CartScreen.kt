@@ -36,6 +36,10 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
+import com.airbnb.lottie.compose.LottieAnimation
+import com.airbnb.lottie.compose.LottieCompositionSpec
+import com.airbnb.lottie.compose.LottieConstants
+import com.airbnb.lottie.compose.rememberLottieComposition
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
 import com.example.applehub.R
@@ -51,7 +55,10 @@ fun CartScreen(cartviewModel: CartViewModel) {
                 Text(text = "Loading")
             }
             is CartState.SuccessState -> {
-                Box(Modifier.fillMaxHeight().padding(vertical = 80.dp)) {
+                Box(
+                    Modifier
+                        .fillMaxHeight()
+                        .padding(vertical = 80.dp)) {
                     Column (Modifier.padding(16.dp)) {
                 state.products.forEach {
 
@@ -223,6 +230,8 @@ fun CartScreen(cartviewModel: CartViewModel) {
                   )
               )
               Spacer(modifier = androidx.compose.ui.Modifier.height(16.dp))
+              SendAnimation(Modifier.height(300.dp).width(300.dp))
+              Spacer(modifier = androidx.compose.ui.Modifier.height(16.dp))
               ElevatedButton(onClick = { cartviewModel.getCartItems() }) {
                   Text(text = "SEPETE DÖN", modifier = Modifier.fillMaxWidth())
               }
@@ -235,5 +244,18 @@ fun CartScreen(cartviewModel: CartViewModel) {
             }
         }
 
+}
+
+
+@Composable
+fun SendAnimation(modifier: Modifier) {
+
+    val composition by rememberLottieComposition(LottieCompositionSpec.RawRes(R.raw.send))
+
+    LottieAnimation(
+        modifier = modifier,
+        composition = composition,
+        iterations = LottieConstants.IterateForever,
+    )
 }
 
